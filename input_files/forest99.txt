@@ -1,4 +1,0 @@
-Team koeln eigener Testfall
-20 20
-5 Tree_1
-2 Tree_2
