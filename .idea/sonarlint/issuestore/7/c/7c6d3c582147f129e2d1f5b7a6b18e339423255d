@@ -1,0 +1,25 @@
+
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Œæ×ÿÿÿÿÿ8›ÿ…ã0
+]	java:S125"<This block of commented-out lines of code should be removed.(ŸıÜıÿÿÿÿ8¦ÿ…ã0
+M
+java:S1128"0Remove this unused import 'example.Bepflanzung'.(¼¤‡8§ÿ…ã0
+L
+java:S1128"*Remove this unused import 'example.Punkt'.(Øï–’ùÿÿÿÿ8¨ÿ…ã0
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8«ÿ…ã0
+Q
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8«ÿ…ã0
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8¬ÿ…ã0
+T
+java:S1128	"7Remove this unused import 'java.io.OutputStreamWriter'.(Ÿ“¸8®ÿ…ã0
+M
+java:S1128
+"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¯ÿ…ã0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¯ÿ…ã0
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8°ÿ…ã0
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8±ÿ…ã0

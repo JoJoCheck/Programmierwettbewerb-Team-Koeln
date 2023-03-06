@@ -1,0 +1,18 @@
+stages:
+  - test
+  - deploy
+
+testing:
+  tags:
+    - docker
+  stage: test
+  script:
+    - ./test.sh
+
+trigger:
+  tags:
+    - docker
+  stage: deploy
+  script:
+    - "curl -X POST --fail -F token=glptt-ef7b8e425bbc5c99d8d7e74c7af8ed85b0aaada9 -F ref=example https://git-ce.rwth-aachen.de/api/v4/projects/13865/trigger/pipeline"
+

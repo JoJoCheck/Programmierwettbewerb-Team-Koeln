@@ -1,0 +1,15 @@
+GreatBitForest
+1000 1000
+256 NineBit
+32 SixBitB
+16 FiveBitB
+8 FourBitsB
+4 ThreeBitB
+2 TwoBitB
+1 OneBitB
+1 OneBitA
+2 TwoBitA
+4 ThreeBitA
+8 FourBitA
+16 FiveBitA
+32 SixBitA

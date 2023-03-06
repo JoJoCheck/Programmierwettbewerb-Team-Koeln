@@ -1,0 +1,18 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ø‹ÀË
+t
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(üòğÕÿÿÿÿÿ
+t
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñªÜ©ÿÿÿÿÿ
+E
+java:S1066L"/Merge this if statement with the enclosing one.(ûàî­
+>
+java:S1659"#Declare "tiefe" on a separate line.(Û¨åˆüÿÿÿÿ
+i
+java:S1450"SRemove the "name" field and declare it as a local variable in the relevant methods.(Ë¥¼
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(ÒòÚ±
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+G
+java:S1068",Remove this unused "filename" private field.( ’ÿÿÿÿÿÿ

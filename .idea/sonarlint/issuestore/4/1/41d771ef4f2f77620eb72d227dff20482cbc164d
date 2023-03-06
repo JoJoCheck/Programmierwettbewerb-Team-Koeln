@@ -1,0 +1,15 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñùÁúúÿÿÿÿ
+k
+java:S1450
+"URemove the "height" field and declare it as a local variable in the relevant methods.(š»ä¶
+i
+java:S1450	"TRemove the "width" field and declare it as a local variable in the relevant methods.(½‹à
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÒòÚ±
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8½²…ã0
+Q	java:S125#"<This block of commented-out lines of code should be removed.(´ÿçƒ
+>
+java:S1068	")Remove this unused "width" private field.(½‹à
+@
+java:S1068
+"*Remove this unused "height" private field.(š»ä¶

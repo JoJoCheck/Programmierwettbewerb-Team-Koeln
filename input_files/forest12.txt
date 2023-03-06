@@ -1,0 +1,27 @@
+PalmenWald
+600 300
+50 Tree25
+48 Tree24
+46 Tree23
+44 Tree22
+42 Tree21
+40 Tree20
+38 Tree19
+36 Tree18
+34 Tree17
+32 Tree16
+30 Tree15
+28 Tree14
+26 Tree13
+24 Tree12
+22 Tree11
+20 Tree10
+18 Tree9
+16 Tree8
+14 Tree7
+12 Tree6
+10 Tree5
+8 Tree4
+6 Tree3
+4 Tree2
+2 Tree1
