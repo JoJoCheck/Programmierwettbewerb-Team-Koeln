@@ -28,7 +28,7 @@ diese dann schrittweise weiter zu verbessern.
 **Bitte beachten Sie, dass nicht vorgesehen ist, dass Sie Dateien ausserhalb des `result_files` Verzeichnis aendern!**
 Sollten dort Aenderungen noetig werden, darf das nur durch den Veranstalter durchgefuehrt werden. Sollten Sie ihren
 Quelltext ebenfalls in diesem Repo verwalten wollen, dann duerfen Sie ein Verzeichnis mit dem Namen `src` hinzufuegen, in
-dem Sie machen koennen, was Sie wollen. Die anderen Teams haben keinen Zugriff auf Ihr Repo.:D
+dem Sie machen koennen, was Sie wollen. Die anderen Teams haben keinen Zugriff auf Ihr Repo.
 
 ## Uebergabe und Teilnehmer
 Am Tage des KickOff Meetings wird vom Veranstalter fuer jedes Team je ein Repo zur Verfuegung gestellt. Um die 
