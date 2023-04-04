@@ -325,45 +325,6 @@ public class Algorithm {
         blackList = plant.getRadius();
     }
 
-    public void circlePacking(int max) {
-        //while (blackList > plants[0].getRadius() || notPlaced < 10) {
-        for (int j = 0; j < max; j++) {
-            System.out.println(j);
-            for (int i = plants.length - 1; i >= 0; i--) {
-                if (plants[i].getRadius() >= blackList) continue;
-                circlePlacing(plants[i]);
-            }
-        }
-    }
-
-    public boolean circlePlacing(Plant plant) {
-        double centerX = width / 2.;
-        double centerY = height / 2.;
-        double distance = 0.0;
-        double distanceStep = 0.1;
-        double angleStep = 0.01;
-        double angle = 0.0;
-        double maxDistance = Math.sqrt(width * width + height * height);
-
-        while (distance < maxDistance) {
-            double x = centerX + distance * Math.cos(angle);
-            double y = centerY + distance * Math.sin(angle);
-
-            Area a = new Area(new Point(x, y), plant);
-            if (checkPlanting(a)) {
-                return worthIt(a);
-            }
-            angle += angleStep;
-            if (angle >= 2 * Math.PI) {
-                angle = 0.0;
-                angleStep -= 0.000001;
-                distance += distanceStep;
-            }
-        }
-        addBlacklist(plant);
-        return true;
-    }
-
     public void run11() {
         double width2 = width - plants[0].getRadius();
         double height2 = height - plants[0].getRadius();
